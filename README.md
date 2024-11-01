@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
+I'm Liam, and I'm an aspiring Front End Web Developer pursuing my diploma in Digital Media and Information Technology. 
+
+
+😄 Pronouns: He/Him
+
+ 🌱 I’m currently learning how to use Wordpress, along with other services like PHPmyadmin and others to expand my skillset.
+
+ I am excited to expand my skillset and work on more projects that (hopefully), end up here.
+ 
 
 <!--
 **liam-bergquist/liam-bergquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
